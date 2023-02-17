@@ -4,7 +4,7 @@ A stolen implementation of VQVAE for study.
 Implementation from [here](https://github.com/bshall/VectorQuantizedVAE)
 
 ## Results
-Trained for 4000 training steps with batch size of 32. I've used the FFHQ dataset. Default parameters. Embedding size of (256, 32, 32). Image size (128, 128, 3). Not too much a compression. The reconstrucion results from the test set are pretty cool:
+Trained for 4000 training steps with batch size of 32. I've used the FFHQ dataset. Default parameters. Image size (128, 128, 3). The reconstrucion results from the test set are pretty cool:
 ![](./individualImage.png)
 
 ## Why?
